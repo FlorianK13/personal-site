@@ -18,8 +18,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Florian. I studied Physics at the <a href="https://www.ph.tum.de/">Technical University of Munich</a>
-        and I am now working as a researcher at <a href="https://www.fortiss.org/">fortiss</a>.
+      <p>Hi, I&apos;m Florian. I studied Physics at the <a href="https://www.ph.tum.de/">Technical University of Munich </a>
+        and I am now working as a researcher at <a href="https://www.fortiss.org/">fortiss GmbH</a>.
       </p>
       <ul className="actions">
         <li>
