@@ -14,12 +14,11 @@ const Index = () => (
           <h2><Link to="/">About this site</Link></h2>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
+      <p> Welcome to my website. Check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+        or follow me at <a href="https://mastodon.energy/@floko">Mastodon</a>.
       </p>
       <p> Source available <a href="https://github.com/FlorianK13/personal-site">here</a>,
         forked from <a href="https://github.com/mldangelo/personal-site">here</a>.

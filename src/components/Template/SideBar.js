@@ -21,16 +21,11 @@ const SideBar = () => (
       <p>Hi, I&apos;m Florian. I studied Physics at the <a href="https://www.ph.tum.de/">Technical University of Munich </a>
         and I am now working as a researcher at <a href="https://www.fortiss.org/">fortiss GmbH</a>.
       </p>
-      <ul className="actions">
-        <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
-        </li>
-      </ul>
     </section>
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Florian Kotthoff <Link to="/">kotthoff.dev</Link>.</p>
+      <p className="copyright">&copy; Florian Kotthoff <Link to="/">kotthoff.dev</Link>. </p>
     </section>
   </section>
 );
