@@ -16,7 +16,8 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "lint": "eslint $(git ls-files '*.js')",
-    "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js"
+    "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js",
+    "test": "npx jest"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
