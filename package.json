@@ -34,6 +34,7 @@
     "react-scripts": "^5.0.1"
   },
   "devDependencies": {
+    "react-snap": "^1.23.0",
     "@babel/eslint-parser": "^7.21.8",
     "@babel/preset-env": "^7.22.4",
     "@babel/preset-react": "^7.22.3",
