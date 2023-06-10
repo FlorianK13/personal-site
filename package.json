@@ -20,9 +20,7 @@
     "test": "npx jest"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
-    "@fortawesome/free-regular-svg-icons": "^6.4.0",
     "@fortawesome/react-fontawesome": "0.2.0",
     "dayjs": "^1.11.8",
     "gh-pages": "^5.0.0",
@@ -36,7 +34,6 @@
     "react-scripts": "^5.0.1"
   },
   "devDependencies": {
-    "react-snap": "^1.23.0",
     "rimraf": "^5.0.0",
     "babel-jest": "^29.5.0",
     "@babel/eslint-parser": "^7.21.8",
