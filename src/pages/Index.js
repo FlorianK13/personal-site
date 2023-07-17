@@ -20,8 +20,7 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or follow me at <a href="https://mastodon.energy/@floko">Mastodon</a>.
       </p>
-      <p> Source available <a href="https://github.com/FlorianK13/personal-site">here</a>,
-        forked from <a href="https://github.com/mldangelo/personal-site">here</a>.
+      <p> Source code of this website available <a href="https://github.com/FlorianK13/personal-site">here</a>.
       </p>
     </article>
   </Main>
