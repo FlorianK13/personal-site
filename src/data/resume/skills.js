@@ -5,11 +5,6 @@ const skills = [
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
-    title: 'Node.JS',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
     title: 'WebGL',
     competency: 1,
     category: ['Web Development'],
