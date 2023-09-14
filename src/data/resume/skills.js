@@ -25,11 +25,6 @@ const skills = [
     category: ['Data Science + Engineering', 'Languages'],
   },
   {
-    title: 'Django',
-    competency: 1,
-    category: ['Web Development', 'Python'],
-  },
-  {
     title: 'Git',
     competency: 4,
     category: ['Tools'],
