@@ -24,6 +24,17 @@ const data = [
       + 'energy database Marktstammdatenregister. It can save several days '
       + 'of writing data parsers for the individual.',
   },
+  {
+    title: 'Bundestag ePetitionen Mastodon Bot',
+    subtitle: 'A mastodon bot that posts petitions from the german parliament website which reached 10k supporters',
+    image: '/images/projects/mastodon_logo.jpg',
+    link: 'https://troet.cafe/@bundestagpetitionen10k',
+    date: '2023-10-01',
+    desc:
+      'The first Mastodon bot I created scans the German Bundestag petition site '
+      + 'and shares petitions with 10,000+ supporters. '
+      + 'It runs once per day.',
+  },
 ];
 
 export default data;
