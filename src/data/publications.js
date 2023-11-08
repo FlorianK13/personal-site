@@ -25,7 +25,7 @@ const data = [
   {
     title: 'Distinguishing an Anderson insulator from a many-body localized phase through space-time snapshots with neural networks',
     subtitle: '',
-    link: 'https://arxiv.org/abs/2304.10581',
+    link: 'https://arxiv.org/abs/2108.04244',
     image: '/images/publications/Kotthoff2022_Distinguishing.jpg',
     date: '2021-08-09',
     desc:
