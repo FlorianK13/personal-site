@@ -13,10 +13,19 @@
  */
 const work = [
   {
+    name: 'OFFIS',
+    position: 'Researcher',
+    url: 'https://offis.de',
+    startDate: '2024-03-01',
+    summary: `In the research institute OFFIS, I joined the 'Data Integration and Processing' team to work on data platforms, dataspace connectors and
+    data pipelining in the energy domain.`,
+  },
+  {
     name: 'fortiss',
     position: 'Researcher',
     url: 'https://fortiss.org',
     startDate: '2021-10-01',
+    endDate: '2014-02-29',
     summary: `fortiss is the research institute of the Free State of Bavaria for software-intensive
     systems and is legally structured as a non-profit GmbH. The shareholders of fortiss are the
     Free State of Bavaria (2/3) and the Fraunhofer-Gesellschaft (1/3). I joined the 'Architectures
