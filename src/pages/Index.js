@@ -17,7 +17,6 @@ const Index = () => (
       <p> Welcome to my website. Check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
         or follow me at <a href="https://mastodon.energy/@floko">Mastodon</a>.
       </p>
       <p> Source code of this website available <a href="https://github.com/FlorianK13/personal-site">here</a>.

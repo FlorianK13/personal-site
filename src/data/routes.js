@@ -16,10 +16,6 @@ const routes = [
     label: 'Publications',
     path: '/publications',
   },
-  {
-    label: 'Stats',
-    path: '/stats',
-  },
 ];
 
 export default routes;
