@@ -1,6 +1,6 @@
 const degrees = [
   {
-    school: 'Technical University of Munich',
+    school: 'Technical University of Munich - M.Sc.',
     degree: 'M.Sc. Physics',
     link: 'https://tum.de',
     year: 2021,
@@ -12,7 +12,7 @@ const degrees = [
     year: 2017,
   },
   {
-    school: 'Technical University of Munich',
+    school: 'Technical University of Munich - B.Sc.',
     degree: 'B.Sc. Physics',
     link: 'https://tum.de',
     year: 2018,
