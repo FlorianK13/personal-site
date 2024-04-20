@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'marktstammdaten.kotthoff.dev',
+    subtitle: 'Monitoring Data Quality of the German Core Energy Registry Marktstammdatenregister',
+    image: '/images/projects/marktstammdaten-dashboard.png',
+    link: 'https://marktstammdaten.kotthoff.dev',
+    date: '2024-03-01',
+    desc:
+      'Using the two frameworks dbt and datasette, I built a data testing '
+      + 'pipeline that runs regularly and publishes relevant metrics as '
+      + ' datasette dasboards.',
+  },
+  {
     title: 'openpv.de',
     subtitle: 'Simulating the solar potential of your building in the browser',
     image: '/images/projects/openpv.jpg',
