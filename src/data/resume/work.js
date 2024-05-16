@@ -13,13 +13,18 @@
  */
 const work = [
   {
-    name: 'OFFIS',
+    name: 'Started at OFFIS',
     position: 'Researcher',
     url: 'https://offis.de',
     startDate: '2024-03-01',
   },
   {
-    name: 'fortiss',
+    name: 'Reviewer for JOSS',
+    url: 'https://joss.theoj.org/',
+    startDate: '2024-01-01',
+  },
+  {
+    name: 'Started at fortiss',
     position: 'Researcher',
     url: 'https://fortiss.org',
     startDate: '2021-10-01',
